@@ -5,3 +5,8 @@ Answer: Git allows for code tracking, which lets you see code history. It is mai
         repository. A neat feature that aids in collaboration is the ability to develop features on an isolated
         branch, ensuring the stable version is not modified. These branches also allow for peer reveiws, allowing
         developers to review code through pull requests before committing to the main branch. "Very Nice." - Borat.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to bioinformatics. For example, machine learning models can analyze DNA sequences 
+	to identify genetic mutations linked to diseases.
