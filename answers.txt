@@ -10,3 +10,15 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to bioinformatics. For example, machine learning models can analyze DNA sequences 
 	to identify genetic mutations linked to diseases.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches by creating a new merge commit, preserving the full history. Rebasing moves commits 
+	from one branch on top of another, rewriting history to keep it linear and clean but altering commit hashes.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning more about Data Science as an industry, and how it can be applied to other 
+	industries. I originally took this class wanting to go straight into Data Science right out of college, but
+	our current job market may prohibit that.
