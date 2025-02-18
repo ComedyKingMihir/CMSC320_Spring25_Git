@@ -14,8 +14,9 @@ Answer: Data science can be applied to bioinformatics. For example, machine lear
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging combines branches by creating a new merge commit, preserving the full history. Rebasing moves commits 
-	from one branch on top of another, rewriting history to keep it linear and clean but altering commit hashes.
+Answer: Merging combines two branches and keeps track of where they came together with a new commit. Rebasing moves 
+	changes from one branch to another as if they were made there in the first place, making the history look 
+	cleaner but changing past commits.
 
 Q4: What are you looking forward to this semester?
 
