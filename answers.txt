@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows for code tracking, which lets you see code history. It is mainly used for collaboration, as
+        multiple people can work on multiple parts of a project at the same time, and upload it to a central
+        repository. A neat feature that aids in collaboration is the ability to develop features on an isolated
+        branch, ensuring the stable version is not modified. These branches also allow for peer reveiws, allowing
+        developers to review code through pull requests before committing to the main branch. "Very Nice." - Borat.
